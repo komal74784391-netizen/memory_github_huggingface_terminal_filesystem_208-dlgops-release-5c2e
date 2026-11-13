@@ -1,0 +1,11 @@
+{
+  "release_id": "DR-26Q4-MGHF208",
+  "source_batches": [
+    "batch_desk.json",
+    "batch_field.json"
+  ],
+  "conversation_count": 10,
+  "message_count": 98,
+  "tool_call_count": 35,
+  "tool_message_count": 25
+}
